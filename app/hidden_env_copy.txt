@@ -1,6 +1,0 @@
-# Database Settings
-DB_NAME=nc_tutorials_db
-DB_USER=postgres
-DB_PASSWORD=admin123
-DB_HOST=nctutorials.cxsu8iia4scb.us-east-1.rds.amazonaws.com   #task5
-DB_PORT=5432
